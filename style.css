@@ -1,0 +1,136 @@
+#surat .card-text {
+    margin-top: -50px;
+    color: white;
+    /* margin-bottom: 10px; */
+    /* background-color: transparent; */
+    /* background: linear-gradient(180deg, rgba(6, 10, 64, 0) 17.69%, rgba(6, 10, 64, 0.75) 84.92%); */
+}
+
+
+#surat .card {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    /* background: linear-gradient(180deg, rgba(255, 255, 255, 0.258140756302521) 50%, rgba(0, 0, 0, 1) 100%); */
+    border: 1px solid #fff;
+    border-radius: 30px;
+
+}
+
+.navbar .container {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.navbar-nav .nav-item {
+    font-size: 1.25rem !important;
+    margin-right: 1rem !important;
+    margin-left: 1rem !important;
+}
+
+i.bi.bi-star-fill,
+i.bi.bi-star-half {
+    color: gold;
+}
+
+/* img.icon-cirle:after {
+    background-color: #F25C05;
+    padding: 30px;
+    margin: 30px;
+    clip-path: circle(50% at 50% 50%);
+} */
+
+.icon-cirle {
+    background-color: #FEEFE6;
+    padding: 70px;
+    font-size: 35px;
+    clip-path: circle(30% at 50% 50%);
+    text-align: center;
+    margin: auto;
+}
+
+.icon-cirle:before {
+    background-color: #F25C05;
+    padding: 70px;
+    font-size: 35px;
+    clip-path: circle(35% at 50% 50%);
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+#log .card {
+    background: #FEEFE6;
+    border-radius: 30px;
+}
+
+footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+
+.sila {
+    color: #F25C05;
+}
+
+.circle {
+    width: 750px;
+    height: 750px;
+    background: #F25C05;
+    /* -moz-border-radius: 70px; */
+    /* -webkit-border-radius: 70px; */
+    border-radius: 50%;
+    position: absolute;
+    z-index: -10;
+    top: -50px;
+    left: -160px;
+
+    /* position: absolute;
+    width: 1220px;
+    height: 1220px;
+    left: -547px;
+    top: -99px;
+    z-index: -10;
+    border-radius: 50%;
+    background: #F25C05; */
+}
+
+.selamat-datang {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.form-control,
+.form-control:hover {
+    /* Light 1 */
+
+    background: #FEEFE6;
+    /* Dark 2 */
+    height: 40px;
+    /* height: 50px; */
+
+    border: 1px solid #000000;
+    border-radius: 12px;
+}
+
+.btn-login {
+    background: #F25C05;
+    border-radius: 100px;
+    /* height: 50px; */
+    color: white;
+}
+
+.btn-login:hover {
+    background: #c94f09;
+    border-radius: 100px;
+    color: white;
+}
